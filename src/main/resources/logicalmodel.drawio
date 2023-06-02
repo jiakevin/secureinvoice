@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T18:01:41.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="NfB4HsGucjh2lXfgCja0" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T18:02:43.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="aJxYgh_1PBp4c-J07gWk" version="21.3.7" type="github">
   <diagram name="Page-1" id="1JhY8--nfG3-tw9fmAnh">
     <mxGraphModel dx="1434" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="okmgKVJZl_X0P9pOpsNx-1" value="User&lt;br&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="okmgKVJZl_X0P9pOpsNx-2" value="firstName (string)&lt;br&gt;lastName (string)&lt;br&gt;email (string)&lt;br&gt;password (string)&lt;br&gt;phone (number)&lt;br&gt;price (float)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="okmgKVJZl_X0P9pOpsNx-1">
+        <mxCell id="okmgKVJZl_X0P9pOpsNx-2" value="firstName (string)&lt;br&gt;lastName (string)&lt;br&gt;email (string)&lt;br&gt;password (string)&lt;br&gt;phone (number)&lt;br&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="okmgKVJZl_X0P9pOpsNx-1">
           <mxGeometry y="50" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="okmgKVJZl_X0P9pOpsNx-3" value="Role" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
